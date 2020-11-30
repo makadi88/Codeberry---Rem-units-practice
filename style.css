@@ -5,11 +5,12 @@
 }
 
 html {
-    font-size: 62.5%;
+    font-size: 10px;
 }
 
 h1 {
     font-size:2.8rem;
+    padding: 0.5rem;
 }
 
 p{
@@ -17,9 +18,18 @@ p{
 }
 
 
-article {
+ article {
     width: 50rem;
-    height: 50rem;
+    height: 20rem;
     margin: 0 auto;
     border: 1rem solid green;
-}
+} 
+
+/* Nézzünk meg pár esetet, hogy miben különbözik a px és a rem, nem font-size esetén. */
+
+/* article {
+    width: 50rem;
+    height: 20rem;
+    margin: 0 auto;
+    border: 1rem solid green;
+} */
