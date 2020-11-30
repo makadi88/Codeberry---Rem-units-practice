@@ -8,3 +8,18 @@ html {
     font-size: 62.5%;
 }
 
+h1 {
+    font-size:2.8rem;
+}
+
+p{
+    font-size: 1.6rem;
+}
+
+
+article {
+    width: 50rem;
+    height: 50rem;
+    margin: 0 auto;
+    border: 1rem solid green;
+}
