@@ -25,7 +25,7 @@ p{
     border: 1rem solid green;
 } 
 
-/* Nézzünk meg pár esetet, hogy miben különbözik a px és a rem, nem font-size esetén. */
+/* Nézzünk meg pár esetet, hogy miben különbözik a px és a rem, nem font-size esetén! */
 
 /* article {
     width: 50rem;
